@@ -9,6 +9,7 @@ This project focuses on training an autonomous driving agent using **Reinforceme
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 
+[![Watch the demo](path/to/thumbnail.png)](https://github.com/Edward-Eughene-Timothy/RL-Selfdriving-Race-car/demoRL_car.mp4)
 
 
 ### 1.  Overall Strategy
